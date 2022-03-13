@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>The GRAIN Ecosystem</title>
+  <meta content="" name="description">
+  <meta content="Carbon, Offsets, Ecosystem, Climate, Climate Change, Carbon Offsets" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+
+  <style type="text/css">
+    @font-face {font-family: "Arial Nova Light";
+      src: url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.eot"); /* IE9*/
+      src: url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.woff2") format("woff2"), /* chrome、firefox */
+      url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.woff") format("woff"), /* chrome、firefox */
+      url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("assets/fonts/Arial Nova Light/@font-face/bc584c6f1f3371bec3c04f1ee4d7a782.svg#Arial Nova Light") format("svg"); /* iOS 4.1- */
+    }
+  </style>
+
+  <style type="text/css">
+    @font-face {font-family: "Arial Nova";
+      src: url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.eot"); /* IE9*/
+      src: url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.woff2") format("woff2"), /* chrome、firefox */
+      url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.woff") format("woff"), /* chrome、firefox */
+      url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+      url("assets/fonts/Arial Nova/@font-face/ce953f6e2e71e5dd538b50ff7a841c7e.svg#Arial Nova") format("svg"); /* iOS 4.1- */
+    }
+  </style>
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Regna - v4.7.0
+  * Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+    <div class="container d-flex justify-content-between align-items-center">
+
+      <div id="logo">
+        <a href="index.html"><img src="assets/img/big_logo_white.svg" width="200" alt=""></a>
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!--<h1><a href="index.html">GRAIN Ecosystem</a></h1>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">home</a></li>
+          <li><a class="nav-link scrollto" href="#about">about</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#services">services</a></li> -->
+          <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
+          <li><a class="nav-link scrollto" href="#team">team</a></li>
+          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li> -->
+          <li><a class="nav-link scrollto" href="#contact">contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Welcome to the <b>GRAIN Ecosystem</b></h1>
+      <h2>We accelerate carbon offsets generation to save <b>our planet</b></h2>
+      <a href="#about" class="btn-get-started">Get Started</a>
+    </div>
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about">
+      <div class="container" data-aos="fade-up">
+        <div class="row about-container">
+
+          <div class="col-lg-6 content order-lg-1 order-2">
+            <h2 class="title">Few Words About Us</h2>
+            <p>&nbsp;</p>
+            <p>
+              GRAIN is a new incubation project at Greentown Labs, sponsored by Schneider Electric.
+            </p>
+            <p>
+              We created GRAIN to address global warming and accelerate decarbonization.
+            </p>
+            <p>
+              We are working with a focus on the Voluntary Carbon Offset Market and how we can have the largest impact on slowing climate change through improved offset quality.
+            </p>
+            <p>&nbsp;</p>
+            <p>
+              <img src="assets/img/gtl.png">
+            </p>
+
+           <!-- <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-share"></i></div>
+              <h4 class="title"><a href="">No middle man</a></h4>
+              <p class="description">We are here to help, not to be another intermediary. We create the perfect ecosystem for project developers, investors, auditors, certifiers to thrive.</p>
+            </div>
+
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="bi bi-door-open"></i></div>
+              <h4 class="title"><a href="">Transparency and Quality</a></h4>
+              <p class="description">Trust is key, by using GRAIN, every actor has a full view of the carbon offsets lifecycle. From the project PDD to the issuance and the retirement.</p>
+            </div>
+
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><i class="bi bi-binoculars"></i></div>
+              <h4 class="title"><a href="">Incentives first</a></h4>
+              <p class="description">Bureaucracy is one of the main bottlenecks of the carbon offset issuance process. Our network of partners is incentivized to do more, better, faster with quality and transparency.</p>
+            </div> -->
+
+          </div>
+
+          <div class="col-lg-6 background order-lg-2 order-1" data-aos="fade-left" data-aos-delay="100"></div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Facts Section ======= -->
+    <section id="facts">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3 class="section-title">Figures</h3>
+          <p class="section-description">Climate change is a global challenge. Our Ecosystem was made to fight it!</p>
+        </div>
+        <div class="row counters">
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="59" data-purecounter-duration="2" class="purecounter"></span>
+            <p>Gigatons still emitted in 2021</p>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="33" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Gigatons of CO2 to be removed per year</p>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="3.1" data-purecounter-duration="2" class="purecounter"></span>
+            <p>°C current pathway</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Facts Section -->
+
+    <!-- ======= Services Section ======= -->
+    <!-- <section id="services">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3 class="section-title">Services</h3>
+          <p class="section-description">We provide services to help project developers worldwide, every step of the way.</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-list-check"></i></a></div>
+              <h4 class="title"><a href="">Eligibility checker</a></h4>
+              <p class="description">Your company wants to rethink how you are producing goods to avoid CO2 emissions or, even better, remove CO2 from the atmosphere but you don’t know if you are eligible to generate carbon offsets? We can help you!</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-piggy-bank"></i></a></div>
+              <h4 class="title"><a href="">Investment finder</a></h4>
+              <p class="description">As a project developer, starting new projects requires funding, a lot of it. With our network of investors, we can help you find the investment you need to start new carbon offset projects.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-people"></i></a></div>
+              <h4 class="title"><a href="">Find partners</a></h4>
+              <p class="description">To generate high-quality carbon offsets you need help and resources. We are here to help you create contacts with auditors and certifiers who will ensure a faster and smoother process. </p>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-binoculars"></i></a></div>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-brightness-high"></i></a></div>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
+            <div class="box">
+              <div class="icon"><a href=""><i class="bi bi-calendar4-week"></i></a></div>
+              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Services Section -->
+
+    <!-- ======= Call To Action Section ======= -->
+    <section id="call-to-action">
+      <div class="container">
+        <div class="row" data-aos="zoom-in">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3 class="cta-title">Call To Action</h3>
+            <p class="cta-text">Be a part of our ecosystem of highly motivated project developers, investors, certifiers, and auditors to help us fight climate change. Working together, supporting each other is the only path to power the generation of high-quality carbon offsets. We don’t have time to lose. Start making an impact today.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#contact">Call To Action</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Call To Action Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <!--
+    <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3 class="section-title">Portfolio</h3>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-web">Web</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>App 1</h4>
+              <p>App</p>
+              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Web 3</h4>
+              <p>Web</p>
+              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>App 2</h4>
+              <p>App</p>
+              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Card 2</h4>
+              <p>Card</p>
+              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Web 2</h4>
+              <p>Web</p>
+              <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>App 3</h4>
+              <p>App</p>
+              <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Card 1</h4>
+              <p>Card</p>
+              <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Card 3</h4>
+              <p>Card</p>
+              <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Web 3</h4>
+              <p>Web</p>
+              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    -->
+    <!-- End Portfolio Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3 class="section-title">Team</h3>
+          <p class="section-description">Only a team of superheroes with a clear purpose can tackle this challenge... </p>
+        </div>
+        <div class="row d-flex justify-content-center">
+
+          <div class="col-lg-2 col-md-5">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="pic"><img src="assets/img/team-1.jpg" alt=""></div>
+              <h4>Ryan Letourneau</h4>
+              <span>Chief Executive Officer</span>
+              <span>Co-Founder</span>
+              <div class="social">
+                <a href="https://www.linkedin.com/in/ryanletourneau"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-5">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="pic"><img src="assets/img/team-2.jpg" alt=""></div>
+              <h4>Patricia Latini</h4>
+              <span>Chief Supply Chain Officer</span>
+              <span>Co-Founder</span>
+              <div class="social">
+                <a href="https://www.linkedin.com/in/patricialatini"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-5">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="pic"><img src="assets/img/team-3.jpg" alt=""></div>
+              <h4>Matt Boujonnier</h4>
+              <span>Chief Technology Officer</span>
+              <span>Co-Founder</span>
+              <div class="social">
+                <a href="https://github.com/CarbonExchange"><i class="bi bi-github"></i></a>
+                <a href="https://www.linkedin.com/matthieu-boujonnier"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-5">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team-4.jpg" alt=""></div>
+              <h4>Jason Dodier</h4>
+              <span>Chief Marketing Officer</span>
+              <span>Co-Founder</span>
+              <div class="social">
+                <a href="https://www.linkedin.com/in/jasondodier"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-5">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="pic"><img src="assets/img/team-5.jpg" alt=""></div>
+              <h4>Mircea Prosan</h4>
+              <span>Chief Finance Officer</span>
+              <span>Co-Founder</span>
+              <div class="social">
+                <a href="https://www.linkedin.com/in/mircea-prosan-7969447b"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact">
+      <div class="container">
+        <div class="section-header">
+          <h3 class="section-title">Contact</h3>
+          <p class="section-description">You can find us at Greentown Labs, the largest climatetech startup incubator in North America. Come say hi!</p>
+        </div>
+      </div>
+
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.1444037196816!2d-71.1048823842341!3d42.38207017918547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a80423c9c9d%3A0x916ce7207a296e65!2sGreentown%20Labs!5e0!3m2!1sen!2sus!4v1647025299744!5m2!1sen!2sus" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+      <div class="container mt-5">
+        <div class="row justify-content-center">
+
+          <div class="col-lg-3 col-md-4">
+
+            <div>
+              <p><img src="assets/img/big_logo.svg" width="200" alt=""></p>
+            </div>
+
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+
+            <div class="info">
+
+              <div>
+                <i class="bi bi-geo-alt"></i>
+                <p>Greentown Labs<br>444 Somerville Ave, Somerville, MA</p>
+              </div>
+
+              <div>
+                <i class="bi bi-envelope"></i>
+                <p>info@grainecosystem.com</p>
+              </div>
+
+              <div>
+                <i class="bi bi-linkedin"></i>
+                <p><a href="https://www.linkedin.com/company/grain-ecosystem">https://www.linkedin.com/company/grain-ecosystem</a></p>
+              </div>
+            </div>
+
+            <!-- <div class="social-links">
+              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/grain-ecosystem" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div> -->
+
+          </div>
+
+          <!-- <div class="col-lg-5 col-md-8">
+            <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6907092328729980928" height="631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+          </div> -->
+
+          <!-- <div class="col-lg-5 col-md-8">
+            <div class="form">
+              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group mt-3">
+                  <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+          </div> -->
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>GRAIN Ecosystem</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+        All the links in the footer should remain intact.
+        You can delete the links only if you purchased the pro version.
+        Licensing information: https://bootstrapmade.com/license/
+        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
+      -->
+        Template by <a href="https://bootstrapmade.com/">BootstrapMade</a>, hacked by the CTO himself :)
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
