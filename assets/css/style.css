@@ -801,8 +801,7 @@ section {
   border-bottom: 1px solid #eee;
 }
 .portfolio-details .portfolio-info ul {
-  list-style: none;
-  padding: 0;
+  padding: 10;
   font-size: 15px;
 }
 .portfolio-details .portfolio-info ul li + li {
